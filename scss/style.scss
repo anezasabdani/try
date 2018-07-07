@@ -1,0 +1,10 @@
+ .speech {border: 1px solid #DDD; width: 300px; padding: 0; margin: 0}
+  .speech input {border: 0; width: 240px; display: inline-block; height: 30px;}
+  .speech img {float: right; width: 40px }
+ .speech img {
+	width:30px;
+	 cursor:pointer;
+}
+#voiceSearch .speech.go {
+	border:2px solid #02c89a;
+}
